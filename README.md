@@ -5,7 +5,9 @@ Dataset y Fuente de Datos:
 El dataset utilizado en este proyecto proviene del trabajo de investigación de Paulo Cortez y Sérgio Moro (2011) y está disponible públicamente para fines de investigación. El dataset se relaciona con campañas de marketing directo de una institución bancaria portuguesa, donde las campañas se realizaron a través de llamadas telefónicas para evaluar si el cliente suscribirá un depósito a plazo fijo.
 
 Fuente: Moro et al., 2011
+
 Número de instancias: 45211 (para bank-full.csv)
+
 Número de atributos: 16 atributos de entrada y 1 atributo de salida (output)
 Atributos del dataset:
 age: Edad del cliente (numérico)
