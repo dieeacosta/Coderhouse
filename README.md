@@ -9,25 +9,44 @@ Fuente: Moro et al., 2011
 Número de instancias: 45211 (para bank-full.csv)
 
 Número de atributos: 16 atributos de entrada y 1 atributo de salida (output)
-Atributos del dataset:
+
+**Atributos del dataset:**
+
 age: Edad del cliente (numérico)
+
 job: Tipo de trabajo (categórico)
+
 marital: Estado civil (categórico)
+
 education: Nivel de educación (categórico)
+
 default: ¿Tiene crédito en incumplimiento? (binario)
+
 balance: Saldo promedio anual en euros (numérico)
+
 housing: ¿Tiene préstamo de vivienda? (binario)
+
 loan: ¿Tiene préstamo personal? (binario)
+
 contact: Tipo de comunicación de contacto (categórico)
+
 day: Último día de contacto del mes (numérico)
+
 month: Último mes de contacto del año (categórico)
+
 duration: Duración del último contacto en segundos (numérico)
+
 campaign: Número de contactos realizados durante esta campaña y para este cliente (numérico)
+
 pdays: Número de días desde que el cliente fue contactado por última vez en una campaña anterior (numérico)
+
 previous: Número de contactos realizados antes de esta campaña para este cliente (numérico)
+
 poutcome: Resultado de la campaña de marketing anterior (categórico)
+
 y: ¿El cliente ha suscrito un depósito a plazo fijo? (binario)
-Objetivo del Proyecto:
+
+### **Objetivo del Proyecto:**
 
 El objetivo principal de este proyecto es predecir si un cliente suscribirá un depósito a plazo fijo como resultado de una campaña de marketing directo. Para lograr este objetivo, se explorarán diferentes técnicas de análisis de datos y algoritmos de aprendizaje automático de clasificación.
 
